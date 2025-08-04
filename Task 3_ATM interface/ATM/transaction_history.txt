@@ -1,0 +1,38 @@
+Transaction History for Card: 778325181034
+
+Type             : Registration
+Amount           : -
+Previous Balance : 0.0
+New Balance      : 0.0
+Date             : 2025-08-04 18:48:08
+
+Type             : Balance enquiry
+Amount           : 15000.0
+Previous Balance : 0.0
+New Balance      : 0.0
+Date             : 2025-08-04 18:48:45
+
+Type             : withdrawal
+Amount           : 500.0
+Previous Balance : 0.0
+New Balance      : 14500.0
+Date             : 2025-08-04 18:48:56
+
+Type             : Balance enquiry
+Amount           : 14500.0
+Previous Balance : 0.0
+New Balance      : 0.0
+Date             : 2025-08-04 18:49:01
+
+Type             : deposit
+Amount           : 5000.0
+Previous Balance : 14500.0
+New Balance      : 19500.0
+Date             : 2025-08-04 18:49:09
+
+Type             : pin change
+Amount           : -
+Previous Balance : 19500.0
+New Balance      : 19500.0
+Date             : 2025-08-04 18:49:45
+
